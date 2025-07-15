@@ -7,11 +7,15 @@
 🔧 Building projects that showcase OOP principles, design patterns, and algorithmic thinking
 🌱 Excited to create engaging games while writing efficient, maintainable code
 
+## 📜 Certifications
+- **Advanced C# Programming** - Udemy, June 2025  
+  [View Certificate](https://www.udemy.com/certificate/UC-398c4410-f579-4c0a-b42e-eec897e798fc/)
+
 ## 🔧 Technologies & Tools
-- **Languages:** C#
-- **Game Engine:** Unity 
-- **Concepts:** OOP, Design Patterns, Data Structures & Algorithms, SOLID Principles
-- **Tools:** Visual Studio, Git
+| Languages | Game Engine | Tools          | Concepts                          |
+|-----------|-------------|----------------|-----------------------------------|
+| C#        | Unity       | Visual Studio, Git | OOP, Design Patterns, DSA, SOLID |
+
 
 ## 🌱 Currently Learning
 - Unity Game Development
@@ -21,19 +25,25 @@
 
 ## 📊 Coding Practice
 - Practicing algorithmic problem solving
-- [My LeetCode Profile](https://leetcode.com/u/marwanFarook/)
-- [My CodeWars Profile](https://www.codewars.com/users/Farookz)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/marwanFarook/)
+[![CodeWars](https://img.shields.io/badge/-CodeWars-B1361E?style=flat&logo=codewars)](https://www.codewars.com/users/Farookz)
 
 ## 🎯 Goals
 - Build engaging Unity games
-- Contribute to open-source projects
 - Master game development best practices
-- Apply SOLID principles in clean code architecture
+- Contribute to open-source game development tools
+- Master advanced design patterns for scalable game architecture
+- Implement SOLID principles and clean code architecture in all projects
 
-## 📫 How to Reach Me
-- LinkedIn: [Marwan Farook](https://www.linkedin.com/in/marwan-farook-411154314/)
-- LeetCode: [marwanFarook](https://leetcode.com/u/marwanFarook/)
-- CodeWars: [Farookz](https://www.codewars.com/users/Farookz)
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/marwan-farook-411154314/)
+ 
+## 📊 GitHub Stats
+![Marwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanFarook&show_icons=true&theme=transparent&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanFarook&layout=compact&theme=transparent)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marwanFarook&theme=transparent)
 
 ## ⚡ Fun Fact
 We Don't Play A Game, We Make It! 🎮
