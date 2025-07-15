@@ -9,10 +9,7 @@
 
 ## 📜 Certifications
 - **Advanced C# Programming** - Udemy, June 2025  
-  [View Certificate](https://www.udemy.com/certificate/UC-398c4410-f579-4c0a-b42e-eec897e798fc/)
-## 📜 Certifications
-- **Advanced C# Programming** - Udemy, June 2025  
-  ![Advanced C# Programming Certificate](https://raw.githubusercontent.com/marwanFarook/marwanFarook/main/assets/advanced-csharp-certificate.jpg)
+  ![Advanced C# Programming Certificate](UC-398c4410-f579-4c0a-b42e-eec897e798fc.jpg)
 
 ## 🔧 Technologies & Tools
 | Languages | Game Engine | Tools          | Concepts                          |
