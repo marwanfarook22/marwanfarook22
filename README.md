@@ -41,10 +41,8 @@
 ## 📊 GitHub Stats
 ![Marwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanFarook&show_icons=true&theme=transparent&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanFarook&layout=compact&theme=transparent)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marwanFarook&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanfarook22&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanfarook22&layout=compact&theme=transparent)
 ## ⚡ Fun Fact
 We Don't Play A Game, We Make It! 🎮
