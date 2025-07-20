@@ -1,11 +1,16 @@
 # Hi there! 👋 I'm Marwan Mohamed Farook
 
+## 🧭 Navigation
+[📖 About Me](#about-me) • [📜 Certifications](#-certifications) • [🔧 Technologies](#-technologies--tools) • [🌱 Learning](#-currently-learning) • [📊 Practice](#-coding-practice) • [🎯 Goals](#-goals) • [📫 Connect](#-connect-with-me) • [📊 Stats](#-github-stats) • [⚡ Fun Fact](#-fun-fact)
+
+---
+
 ## About Me
-👨‍💻 Software Developer specializing in C# with a passion for Game Development
-🎓 Recently completed 47+ hours of advanced C# training and comprehensive Data Structures & Algorithms course
-🎮 Currently learning Unity to combine programming skills with creative game design
-🔧 Building projects that showcase OOP principles, design patterns, and algorithmic thinking
-🌱 Excited to create engaging games while writing efficient, maintainable code
+👨‍💻 Software Developer specializing in C# with a passion for Game Development  
+🎓 Recently completed 47+ hours of advanced C# training and comprehensive Data Structures & Algorithms course  
+🎮 Currently learning Unity to combine programming skills with creative game design  
+🔧 Building projects that showcase OOP principles, design patterns, and algorithmic thinking  
+🌱 Excited to create engaging games while writing efficient, maintainable code  
 
 ## 📜 Certifications
 - **Advanced C# Programming** - Udemy, June 2025  
@@ -16,7 +21,6 @@
 |-----------|-------------|----------------|-----------------------------------|
 | C#        | Unity       | Visual Studio, Git | OOP, Design Patterns, DSA, SOLID |
 
-
 ## 🌱 Currently Learning
 - Unity Game Development
 - Advanced C# concepts
@@ -25,6 +29,7 @@
 
 ## 📊 Coding Practice
 - Practicing algorithmic problem solving
+
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/marwanFarook/)
 [![CodeWars](https://img.shields.io/badge/-CodeWars-B1361E?style=flat&logo=codewars)](https://www.codewars.com/users/Farookz)
 
@@ -39,10 +44,14 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/marwan-farook-411154314/)
  
 ## 📊 GitHub Stats
-![Marwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanFarook&show_icons=true&theme=transparent&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marwanFarook&theme=transparent)
-
+<!-- Alternative service with faster updates -->
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marwanfarook22&theme=transparent)
+![Marwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanfarook22&show_icons=true&theme=transparent&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marwanfarook22&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanfarook22&layout=compact&theme=transparent)
+
 ## ⚡ Fun Fact
 We Don't Play A Game, We Make It! 🎮
+
+---
+⬆️ [Back to Top](#-navigation)
